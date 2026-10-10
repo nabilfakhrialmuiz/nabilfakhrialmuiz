@@ -1,12 +1,11 @@
 ﻿<div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nabil+Fakhri!+%F0%9F%91%8B;Mobile+App+Developer;React+Native+%7C+Firebase+Enthusiast;Building+the+Future%2C+One+App+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nabil+Fakhri+Al+Muiz;Mobile+App+Developer;React+Native+%7C+Firebase+Enthusiast;Building+the+Future%2C+One+App+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/nabilfakhrialmuiz?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=00F0FF)](https://github.com/nabilfakhrialmuiz)
-[![GitHub User's stars](https://img.shields.io/github/stars/nabilfakhrialmuiz?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=FFD700)](https://github.com/nabilfakhrialmuiz)
+[![GitHub User's stars](https://img.shields.io/github/stars/nabilfakhrialmuiz?label=Total+Stars&style=for-the-badge&logo=github&logoColor=white&color=FFD700)](https://github.com/nabilfakhrialmuiz)
 [![Profile Views](https://komarev.com/ghpvc/?username=nabilfakhrialmuiz&label=Profile+Views&style=for-the-badge&color=FF003C)](https://github.com/nabilfakhrialmuiz)
 
 </div>
@@ -42,7 +41,7 @@ const nabil = {
 **Backend & Database**
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/products/firestore)
+[![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/products/firestore)
 
 **Tools & Platforms**
 
@@ -58,7 +57,7 @@ const nabil = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilfakhrialmuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF"/>
-
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfakhrialmuiz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F0FF&text_color=FFFFFF"/>
 
 </div>
@@ -83,7 +82,7 @@ const nabil = {
 
 ## Activity Graph
 
-[![Nabil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabilfakhrialmuiz&theme=tokyo-night&hide_border=true&bg_color=0B0F19&color=00F0FF&line=00F0FF&point=FFD700)](https://github.com/nabilfakhrialmuiz)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabilfakhrialmuiz&theme=tokyo-night&hide_border=true&bg_color=0B0F19&color=00F0FF&line=00F0FF&point=FFD700)](https://github.com/nabilfakhrialmuiz)
 
 ---
 
@@ -91,6 +90,6 @@ const nabil = {
 
 **"Code is the closest thing we have to a superpower."**
 
-[![GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilfakhrialmuiz)
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilfakhrialmuiz)
 
 </div>
