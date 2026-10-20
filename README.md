@@ -1,95 +1,67 @@
-﻿<div align="center">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nabil+Fakhri+Al+Muiz;Mobile+App+Developer;React+Native+%7C+Firebase+Enthusiast;Building+the+Future%2C+One+App+at+a+Time)](https://git.io/typing-svg)
+# Nabil Fakhri Al Muiz
+**Software Developer · Mobile Apps · Finance & Trading**
 
-<br/>
+Membangun aplikasi yang berguna dengan fokus pada pengalaman pengguna, struktur kode, dan pengembangan yang berkelanjutan.
 
-[![GitHub followers](https://img.shields.io/github/followers/nabilfakhrialmuiz?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=00F0FF)](https://github.com/nabilfakhrialmuiz)
-[![GitHub User's stars](https://img.shields.io/github/stars/nabilfakhrialmuiz?label=Total+Stars&style=for-the-badge&logo=github&logoColor=white&color=FFD700)](https://github.com/nabilfakhrialmuiz)
-[![Profile Views](https://komarev.com/ghpvc/?username=nabilfakhrialmuiz&label=Profile+Views&style=for-the-badge&color=FF003C)](https://github.com/nabilfakhrialmuiz)
+[GitHub](https://github.com/nabilfakhrialmuiz) · [Repositories](https://github.com/nabilfakhrialmuiz?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## Tentang Saya
 
-```javascript
-const nabil = {
-  name    : "Nabil Fakhri Al Muiz",
-  role    : "Mobile App Developer",
-  location: "Indonesia",
-  stack   : ["React Native", "Expo", "Firebase", "JavaScript"],
-  hobbies : ["Coding", "Finance & Investing", "UI/UX Design"],
-  currently: "Building Fin-X — Personal Finance App",
-  contact : "Open for collaborations!"
-};
-```
+Saya adalah mahasiswa Sistem Informasi yang sedang mengembangkan kemampuan di bidang pemrograman dan pengembangan aplikasi. Saya tertarik pada aplikasi mobile, produk finansial, UI/UX, serta penggunaan teknologi untuk menyelesaikan masalah praktis.
 
----
+Saat ini saya berfokus pada:
+- Mengembangkan aplikasi mobile dan aplikasi berbasis web.
+- Membangun **Fin-X**, konsep aplikasi pencatatan keuangan pribadi.
+- Mengembangkan proyek perangkat lunak sambil memperkuat dasar pemrograman dan pengelolaan kode dengan Git.
 
-## Tech Stack
+## Teknologi
 
-**Mobile & Frontend**
+**Mobile & Frontend**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+**Backend & Data**  
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=flat-square&logo=firebase&logoColor=FFCA28)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Backend & Database**
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/products/firestore)
+## Proyek Pilihan
 
-**Tools & Platforms**
+| Proyek | Deskripsi |
+| --- | --- |
+| [Fin-X](https://github.com/nabilfakhrialmuiz/Fin-X) | Pengembangan konsep aplikasi pencatatan keuangan pribadi. |
+| [Pengaduan Digital — Redesain](https://github.com/nabilfakhrialmuiz/PengaduanDigitalRedesain) | Redesain aplikasi pengaduan sekolah yang dibuat sebagai proyek kelulusan SMK jurusan Rekayasa Perangkat Lunak. |
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilfakhrialmuiz)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+Lihat [semua repositori](https://github.com/nabilfakhrialmuiz?tab=repositories) untuk proyek dan eksperimen lainnya.
 
----
-
-## GitHub Stats
+## Statistik GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilfakhrialmuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfakhrialmuiz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F0FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nabilfakhrialmuiz&theme=tokyonight&hide_border=true&background=0B0F19&stroke=00F0FF&ring=00F0FF&fire=FFD700&currStreakLabel=00F0FF)](https://git.io/streak-stats)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nabilfakhrialmuiz&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" alt="Statistik GitHub" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfakhrialmuiz&layout=compact&hide_border=true&theme=transparent&langs_count=5" alt="Bahasa pemrograman yang sering digunakan" />
 
 </div>
 
 ---
 
-## Featured Projects
-
 <div align="center">
 
-[![Fin-X](https://github-readme-stats.vercel.app/api/pin/?username=nabilfakhrialmuiz&repo=Fin-X&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF)](https://github.com/nabilfakhrialmuiz/Fin-X)
-
-</div>
-
----
-
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabilfakhrialmuiz&theme=tokyo-night&hide_border=true&bg_color=0B0F19&color=00F0FF&line=00F0FF&point=FFD700)](https://github.com/nabilfakhrialmuiz)
-
----
-
-<div align="center">
-
-**"Code is the closest thing we have to a superpower."**
-
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilfakhrialmuiz)
+Terbuka untuk bertukar ide, belajar bersama, dan kolaborasi proyek yang relevan.
 
 </div>
