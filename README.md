@@ -45,7 +45,7 @@ Saat ini saya berfokus pada:
 | Proyek | Deskripsi |
 | --- | --- |
 | [Fin-X](https://github.com/nabilfakhrialmuiz/Fin-X) | Pengembangan konsep aplikasi pencatatan keuangan pribadi. |
-| [Pengaduan Digital — Redesain](https://github.com/nabilfakhrialmuiz/PengaduanDigitalRedesain) | Redesain aplikasi pengaduan sekolah yang dibuat sebagai proyek kelulusan SMK jurusan Rekayasa Perangkat Lunak. |
+| [Pengaduan Digital — Redesain](https://github.com/nabilfakhrialmuiz/fokus-baca) | Aplikasi yang dibuat untuk mendorong literasi anak-anak Indonesia dengan fitur progress membaca |
 
 Lihat [semua repositori](https://github.com/nabilfakhrialmuiz?tab=repositories) untuk proyek dan eksperimen lainnya.
 
